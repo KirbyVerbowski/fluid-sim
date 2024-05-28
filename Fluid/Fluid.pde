@@ -115,8 +115,8 @@ class Grid
     
   }
   
-  Addsource(PVector pos, PVector direction){
-    s
+  void Addsource(PVector pos, PVector direction){
+    
   }
   
   public void wind(PVector direction)
